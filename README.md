@@ -1,2 +1,3 @@
-# L-gica-Programa-o
-Achando a mediana em uma lista ordenada com um número ímpar de elementos.
+# Logica de Progracao
+Achando a  median em uma lista ordenada com numero impar de elementos
+Utilizei a linguage JavaScript para resolver essa questao, ordenação dos elementos com o comando sort() e  o comando document.write para  mostrar media
